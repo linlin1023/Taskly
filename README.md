@@ -1,4 +1,6 @@
-# Task list to track down my daily todo items
+# Taskly
+
+## Task list to track down my daily todo items
 
 - can add new items in shopping list
   - have animation to improve User experience
@@ -7,7 +9,7 @@
   - Have confetti canon and vibrantion when click the task is done button
   - TODO: add input fields to edit task name and schedule interval
 
-# The technology I have used to build it
+## The technology I have used to build it
 
 - React Native
 - Expo
